@@ -11,4 +11,4 @@ cd DeepSearch
 python main.py
 
 ```
-https://www.turkhackteam.org/konular/deepsearch-dork-arama.2068493/
+
