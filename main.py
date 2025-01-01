@@ -43,6 +43,6 @@ if links:
         wb.save(excel_file)
         print(f"Linkler {excel_file} dosyasına kayıt edildi.\n-HeJo")
     else:
-        print("Invalid output format. Supported formats: txt or excel.")
+        print("Bilinmeye fırman şunları deniyin: txt or excel.")
 else:
-    print("No links found.")
+    print("Link bulunamadı.")
